@@ -27,7 +27,7 @@ This brief overview article discusses the meaning of Shadow I.T., implications a
 - And finally, Network Access Control using approved certificates so that an unauthorized device is unable to connect. 
 
 <h2>Credits:</h2>
-<b>All credit for my newly found knowledge goes to Marc Menninger, CISSP, CRISC and his course “The Cybersecurity Threat Landscape” that can be found here: https://lnkd.in/gGibSDeV</b>
+<b><i>All credit for my newly found knowledge goes to Marc Menninger, CISSP, CRISC and his course “The Cybersecurity Threat Landscape” that can be found here: https://lnkd.in/gGibSDeV</i></b>
 
 <!--
  ```diff
