@@ -2,8 +2,9 @@
 
 
 <h2>Description</h2>
-This brief overview article discusses the meaning of Shadow I.T., implications and mitigation strategies. <b><i>(Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7112514377391505410/))</i></b>
-<br />
+This brief overview article discusses the meaning of Shadow I.T., implications and mitigation strategies.
+
+<b><i>Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7112514377391505410/)</i></b>
 
 
 <h2>What is Shadow I.T.?</h2>
